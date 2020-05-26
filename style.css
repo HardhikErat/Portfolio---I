@@ -1,0 +1,20 @@
+h1{
+    color: blue;
+    padding-left : 50px;
+}
+
+* {
+    border: solid;
+}
+
+.Header {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
